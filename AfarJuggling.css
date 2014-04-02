@@ -27,18 +27,6 @@ body{
 	display: block;
 }
 
-/*.navTop:after{
-
-	background-image: url("Images/texture.png");
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	opacity: .5;
-	position: absolute;
-	z-index:6; 
-}*/
-
 .navBottom{
 	background-color: #64bdcb;
 	border-bottom-right-radius: 7px;
@@ -68,6 +56,7 @@ li{
 	float: left;
 	width: 56%;
 	margin-right: 10px;
+	font-size: 15px;
 }
 
 .productName{
@@ -91,13 +80,15 @@ li{
 	float: right;
 	width: 36%;
 	background-color: #ddd9c6;
+	padding-bottom: 5px;
+	color: #3a220d;
 }
 .rightDesc{
 	padding-left: 7px;
 	color: #3a220d;
 	text-transform: uppercase;
 	margin-bottom: 5px;
-	font-size: 10px;
+	font-size: 15px;
 }
 .userReviews{
 	min-width: 100%;
