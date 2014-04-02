@@ -17,8 +17,7 @@ body{
 	padding-top: 20px;
 	padding-bottom: 20px;
 	background: #9ed5de url('Images/texture.png');
-	background-repeat: repeat-x;
-	background-repeat: repeat-x;
+	background-repeat: repeat;
 	border-right: #64bdcb solid 2px;
 	border-left: #64bdcb solid 2px;
 	border-top: #64bdcb solid 2px;
