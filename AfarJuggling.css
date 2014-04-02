@@ -1,0 +1,123 @@
+body{
+	background-color: #eae8dc;
+	font: georgia;
+}
+.container{
+	margin: 0 auto;
+	width: 75%;	
+	font: georgia;
+
+}
+.navMain{
+	margin-bottom: 20px;
+	background-color: #64bdcb;
+	border-radius: 7px;
+}
+.navTop{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #9ed5de url('images/checked.png');
+	background-repeat: repeat-x;
+	border-right: #64bdcb solid 2px;
+	border-left: #64bdcb solid 2px;
+	border-top: #64bdcb solid 2px;
+	border-bottom: #64bdcb solid 4px;
+	border-radius:7px; 
+	position: relative;
+	display: block;
+}
+/*.navTop:after{
+
+	background-image: url("Images/texture.png");
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	opacity: .5;
+	position: absolute;
+	z-index:6; 
+}*/
+
+.navBottom{
+	background-color: #64bdcb;
+	border-bottom-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+
+}
+
+ul{
+	list-style: none;
+	display: inline-block;
+	padding: 0;
+
+}
+
+li{
+	display: inline-block;
+	text-transform: uppercase;
+	color: #33838f;
+	margin:0 20px;
+	padding: 0 33px;
+	font-family: georgia;
+	/*I do not have this font- looked for a free version*/
+	/*font-family: helveticaneueltstd bd;*/
+}
+
+.left56{
+	float: left;
+	width: 56%;
+	margin-right: 10px;
+}
+
+.productName{
+	color: #3a220d;
+}
+
+.featuredProduct{
+	width: 100%;
+	border:white solid 10px;
+	box-shadow: 2px 2px 9px 2px #ccc;
+
+}
+
+.productDesc{
+
+	font-size: 14px;
+	color: #3a220d;
+}
+
+.right36{
+	float: right;
+	width: 36%;
+	background-color: #ddd9c6;
+}
+.rightDesc{
+	padding-left: 7px;
+	color: #3a220d;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	font-size: 10px;
+}
+.userReviews{
+	min-width: 100%;
+}
+.balls{
+	width: 90px;
+	height:90px;
+	border:white solid 10px;
+	margin: 5px;
+}
+.bottomBalls{
+	float: left;
+	margin-left: 51px;
+}
+
+.m0a{
+	margin: 0 auto;
+}
+.tAc{
+	text-align: center;
+}
+.tAl{
+	text-align: left;
+}
