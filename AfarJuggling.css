@@ -1,6 +1,6 @@
 body{
 	background-color: #eae8dc;
-	font: georgia;
+	font-family: 'Allerta', sans-serif;
 }
 .container{
 	margin: 0 auto;
@@ -42,6 +42,8 @@ ul{
 }
 
 li{
+	font-family: 'Allerta', sans-serif;
+	font-size: 14px;
 	display: inline-block;
 	text-transform: uppercase;
 	color: #33838f;
