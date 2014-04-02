@@ -16,7 +16,8 @@ body{
 .navTop{
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background: #9ed5de url('images/checked.png');
+	background: #9ed5de url('Images/texture.png');
+	background-repeat: repeat-x;
 	background-repeat: repeat-x;
 	border-right: #64bdcb solid 2px;
 	border-left: #64bdcb solid 2px;
@@ -26,6 +27,7 @@ body{
 	position: relative;
 	display: block;
 }
+
 /*.navTop:after{
 
 	background-image: url("Images/texture.png");
