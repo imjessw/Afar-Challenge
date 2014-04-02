@@ -5,7 +5,8 @@ body{
 .container{
 	margin: 0 auto;
 	width: 75%;	
-	font: georgia;
+	
+
 
 }
 .navMain{
@@ -31,9 +32,9 @@ body{
 	background-color: #64bdcb;
 	border-bottom-right-radius: 7px;
 	border-bottom-left-radius: 7px;
-
-
 }
+
+
 
 ul{
 	list-style: none;
