@@ -93,6 +93,8 @@ ul{
 	text-transform: uppercase;
 	margin-bottom: 5px;
 	font-size: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 .userReviews{
 	min-width: 100%;
@@ -106,6 +108,9 @@ ul{
 .bottomBalls{
 	float: left;
 	margin-left: 51px;
+}
+.otherBalls{
+	margin-bottom: 15px;
 }
 
 .m0a{
