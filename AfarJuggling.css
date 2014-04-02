@@ -32,6 +32,7 @@ body{
 	border-bottom-right-radius: 7px;
 	border-bottom-left-radius: 7px;
 
+
 }
 
 ul{
@@ -41,15 +42,15 @@ ul{
 
 }
 
-li{
-	font-family: 'Allerta', sans-serif;
-	font-size: 14px;
+ li{
+
 	display: inline-block;
 	text-transform: uppercase;
 	color: #33838f;
 	margin:0 20px;
 	padding: 0 33px;
-	font-family: georgia;
+	font-family: 'Allerta', sans-serif;
+	font-size: 14px;
 	/*I do not have this font- looked for a free version*/
 	/*font-family: helveticaneueltstd bd;*/
 }
@@ -62,6 +63,7 @@ li{
 }
 
 .productName{
+	margin-top: 15px;
 	color: #3a220d;
 }
 
